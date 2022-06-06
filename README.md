@@ -3,7 +3,7 @@ This is the project which uses FastGAN to generate images for virtual try-on clo
 
 The results I got are still not good enough, so more improvement is needed in the future to complete this project.
 
-My project is build up based on [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch).
+My project is built up based on [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch).
 Here are some results:
 Generated images:
 ![pic1](results/164000.jpg) 
